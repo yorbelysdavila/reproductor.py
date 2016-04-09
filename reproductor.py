@@ -1,4 +1,8 @@
 # reproductor.py
+# UNEFA Mérida
+# Integrantes: yorbelysdavila, eislenp, ????
+# Profesor: javierri
+# Calificación
 class reproductor:
 
 #atributos
